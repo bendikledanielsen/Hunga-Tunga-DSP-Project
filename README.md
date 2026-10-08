@@ -2,10 +2,9 @@
 # Hunga-Tunga DSP Project
 
 ## Overview
+This repository contains Python code and exercises related to digital signal processing (DSP), with a focus on analysing signals from the 2022 Hunga Tonga–Hunga Haʻapai volcanic eruption.
 
-This repository contains code and exercises related to digital signal processing (DSP).
-
-The project explores signal analysis, mathematical modelling, and data visualization using Python.
+The project explores signal analysis, mathematical modelling, and data visualization through filtering, convolution, and Fourier analysis. It uses recordings from multiple stations to investigate how eruption-related signals propagate over different distances.
 
 ## Technologies
 
